@@ -18,8 +18,8 @@ An interactive, real-time air quality monitoring and AQI prediction dashboard bu
 
 ## 🚀 Demo
 
-![Dashboard Preview]((https://github.com/user-attachments/assets/a289496f-57e2-4705-b563-2afaada3c8f2)
-)  
+[![Dashboard Preview]((https://github.com/user-attachments/assets/a289496f-57e2-4705-b563-2afaada3c8f2)
+)  ](https://github.com/Shinu87/Real-Time-Air-Quality-Index-Prediction-Dashboard-Using-Machine-Learning/issues/1)
 
 
 ---
