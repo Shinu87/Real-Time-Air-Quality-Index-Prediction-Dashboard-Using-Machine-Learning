@@ -18,8 +18,9 @@ An interactive, real-time air quality monitoring and AQI prediction dashboard bu
 
 ## 🚀 Demo
 
-![Dashboard Preview](https://cdn-icons-png.flaticon.com/512/2933/2933884.png)  
-> *Screenshot or GIF of your Streamlit dashboard can be added here*
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/a289496f-57e2-4705-b563-2afaada3c8f2)
+)  
+
 
 ---
 
