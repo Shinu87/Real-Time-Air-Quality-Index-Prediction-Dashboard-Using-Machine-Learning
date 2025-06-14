@@ -126,7 +126,7 @@ st.markdown("""
 def load_trained_model():
     model_path = "best_model_pipeline.pkl"
     file_id = "1PYyd5qYIHQzjwDOUhLV1Vz5iypp1daIq"
-    url = f"https://drive.google.com/uc?id={file_id}"
+    url = "https://drive.google.com/uc?export=download&id=1PYyd5qYIHQzjwDOUhLV1Vz5iypp1daIq"
 
     try:
         if not os.path.exists(model_path):
